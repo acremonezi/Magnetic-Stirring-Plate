@@ -1,6 +1,6 @@
 # Magnetic Stirring Plate
 
-This is an Arduino based Magnetic Stirring Plate to produce Yeast Starter for Beer Homebrewers.
+## This is an Arduino based Magnetic Stirring Plate to produce Yeast Starter for Beer Homebrewers.
 Please Enjoy it! Cheers!
 
 **General Info:** 
