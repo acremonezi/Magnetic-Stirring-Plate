@@ -1,6 +1,6 @@
 /*
   Stir Plate to use for Home Brewing Yeast Starter.
-  Created By: Alcides, acremonezi@gmail.com
+  Created By: https://github.com/acremonezi
   Date: 21-Nov-2020
   Components:
     1 - Arduino Nano.
