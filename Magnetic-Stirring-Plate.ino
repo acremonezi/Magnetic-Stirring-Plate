@@ -1,5 +1,5 @@
 /*
-  Stir Plate to use for Home Brewing Yeast Starter.
+  Magnetic Stirring Plate to produce Yeast Starter for Beer Homebrewers.
   Created By: https://github.com/acremonezi
   Date: 21-Nov-2020
   Components:
